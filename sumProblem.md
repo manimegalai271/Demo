@@ -5,4 +5,7 @@
 ```
 console.log("hwllo world");
 ```
-
+* output:
+  ```
+  hello world.
+  ```
